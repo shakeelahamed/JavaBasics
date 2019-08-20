@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Exercise   {
+public class InterviewExercise   {
 
     public static void main(String[] args)  {
 
